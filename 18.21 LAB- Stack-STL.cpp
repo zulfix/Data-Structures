@@ -44,5 +44,4 @@ Size of my stack is: 3
 
 (2) The top of the stack after performing above operations. Your output should be as shown:
 
-Top of my stack is: 9
-*/
+Top of my stack is: 9*/
