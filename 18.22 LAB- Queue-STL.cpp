@@ -67,4 +67,4 @@ Then, remove the three integers from the queue (FIFO).
 
 (4) Print out all elements in the queue. Your output should be as shown:
 
-10 3 2 0 9 15 23 */
+10 3 2 0 9 15 23*/
