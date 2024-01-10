@@ -45,5 +45,4 @@ Complete the code for void insertionSort(vector & vec), as instructed in the cla
 My sorted vector is :
  1 2 3 4 5 9 10
 My sorted vector is :
-0 10 20 30 40 50 60 70 80 90
-*/
+0 10 20 30 40 50 60 70 80 90*/
